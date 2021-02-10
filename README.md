@@ -9,7 +9,7 @@ While preserving the original edgy Character the goal became to create an entire
 
 <strong>Heal the Web B</strong> stands out with its edgy typography, contains abstract Glyphs and is best used as an All Caps Font while the minuscules are a construction kit for further experiments. Unlike it’s other version it consist of strictly geometric shapes without optical correction.
 
-Both Versions have collections of alternative Glyphs which originated from In-between steps of the design process. They are accessible through OpenTypes Stylistic sets.
+Both Versions have collections of alternate Glyphs which originated from In-between steps of the design process. They are accessible through OpenTypes Stylistic sets.
 
 The 'Heal the Web' font is licensed under the <a href="https://www.mozilla.org/en-US/MPL/2.0/FAQ/" target="_blank">MPL-2.0 license</a>.
 
