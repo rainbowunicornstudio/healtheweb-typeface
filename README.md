@@ -1,5 +1,5 @@
 # Heal the Web Typeface
-<h1>A typeface to heal the web</h1>
+<h3>A typeface to heal the web</h3>
 
 The font startet with a simple but big message: Heal the web with an experimental open source Typeface designed for everyone. Originally developed by <a href="https://rainbow-unicorn.com" target="_blank" >Rainbow Unicorn</a> for Mozilla’s <a href="https://2020.internethealthreport.org/" target="_blank" >Internet Health Report 2020</a> the lettering resembles circuits, connections and networks through Geometric Shapes sticking together like an abstract Puzzle.
 
